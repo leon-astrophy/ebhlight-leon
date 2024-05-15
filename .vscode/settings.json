@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "cmath": "c",
-        "complex": "c",
-        "limits": "c",
-        "random": "c"
-    }
-}
